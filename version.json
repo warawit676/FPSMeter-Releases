@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "2.1",
-  "downloadUrl": "https://raw.githubusercontent.com/warawit676/FPSMeter-Releases/main/app-debug.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/warawit676/FPSMeter-Releases/main/app-release.apk",
   "releaseNotes": "✨ อัปเดตเวอร์ชัน 2.1\n- ปรับปรุงอนิเมชั่นเปลี่ยนหน้าให้สมูทขึ้น\n- ย้ายระบบเช็คเครื่องไปทำงานเบื้องหลัง ช่วยลดกระตุก\n- ลื่นไหลขึ้นและประหยัดแบตขึ้นเยอะ!"
 }
